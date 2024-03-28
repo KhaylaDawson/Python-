@@ -22,4 +22,4 @@ def fileSpace():
 
 
 #main code
-print("The total size for all files in", files, "is"
+print("The total size for all files in", files, "is")
